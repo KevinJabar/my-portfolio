@@ -5,7 +5,8 @@ const projects = [
     number: "01",
     year: "2026",
     title: "Personal Porfolio",
-    description: "A real-time financial analytics platform with advanced data visualization for enterprise teams.",
+    description:
+      "A modern and responsive personal portfolio website that showcases profile information, skills, projects, and contact details professionally. Built using React, Vite, and Tailwind CSS with a focus on performance, clean design, and interactive user experience.",
     stack: ["React", "TypeScript", "D3.js", "WebSocket", "PostgreSQL"],
     result: "40% faster decisions. 98 Lighthouse score.",
     image: "project-1.png",
@@ -14,7 +15,8 @@ const projects = [
     number: "02",
     year: "2024",
     title: "IR Information System",
-    description: "A next-gen e-commerce experience with AI-powered personalization and seamless checkout.",
+    description:
+      "Web-based document management system built with Laravel, featuring document organization, file storage, and automated Microsoft Office file generation. The system supports generating Word and Excel documents dynamically to improve workflow efficiency and document handling.",
     stack: ["Next.js", "Tailwind", "Stripe", "Prisma", "Redis"],
     result: "32% increase in conversion rate.",
     image: "project-2.png",
@@ -23,7 +25,8 @@ const projects = [
     number: "03",
     year: "2026",
     title: "E-Ticket Events",
-    description: "A real-time design tool for distributed teams with infinite canvas workspaces.",
+    description:
+      "Web-based e-ticket sales system for running events, designed to simplify ticket booking, participant registration, and payment processing. The platform provides digital ticket generation, event management, and a responsive user experience for both organizers and participants.",
     stack: ["React", "WebRTC", "Canvas API", "Node.js"],
     result: "Adopted by 12K+ teams. 99.97% uptime.",
     image: "project-3.png",
