@@ -34,6 +34,17 @@ const projects = [
     url: "https://tcrofficial.com",
     image: "project-3.png",
   },
+  {
+    number: "04",
+    year: "2026",
+    title: "Kosanku",
+    description:
+      "Web-based boarding house platform designed to simplify the process of finding and exploring available rooms. The platform provides detailed information about rooms, facilities, pricing, location, and accommodation details in a clean and responsive interface.",
+    stack: ["Html", "Css", "JavaScript"],
+    result: "View Project",
+    url: "https://kosanku.site",
+    image: "project-4.png",
+  },
 ];
 
 export default function ProjectsSection() {
